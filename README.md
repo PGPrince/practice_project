@@ -1,16 +1,11 @@
-# practice_project
+📚 Practice on Creating Own Library
+This project is a practice project for learning how to create and use a custom Dart library. It includes sample functions, imports, and usage examples to understand how Dart packages and libraries work.
 
-A new Flutter project.
+🚀 Features
+Create your own Dart library
 
-## Getting Started
+Import and use custom library files
 
-This project is a starting point for a Flutter application.
+Organize reusable functions
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Understand modular code in Dart
